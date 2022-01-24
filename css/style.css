@@ -44,3 +44,7 @@ ul li{
     border-radius: 50%;
 
 }
+.col-md img{
+    width:400px;
+    padding-left: 10px;
+}
