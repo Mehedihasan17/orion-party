@@ -38,3 +38,9 @@ ul li{
     height: 100px;
     width:100px;
 }
+.fa-check-circle{
+    color:white;
+    background-color: black;
+    border-radius: 50%;
+
+}
